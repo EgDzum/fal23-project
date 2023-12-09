@@ -1,0 +1,4 @@
+.idea #
+.venv
+poetry.loc # история зависимостей
+.pytest_cache
